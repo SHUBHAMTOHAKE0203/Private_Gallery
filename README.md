@@ -6,6 +6,7 @@ Save Your Photos here
 - Supabase
 - React.js
 
+# Steps To See
 - clone the repo
 - npm install
 - make .env file contains your # VITE_SUPABASE_URL= afdyen...... and # VITE_SUPABASE_ANON_KEY=andgdjjekgfkg..........
